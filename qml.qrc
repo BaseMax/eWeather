@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/icons/01d@2x.png</file>
+        <file>resources/icons/02d@2x.png</file>
+        <file>resources/icons/03d@2x.png</file>
+        <file>resources/icons/04d@2x.png</file>
+        <file>resources/icons/09d@2x.png</file>
+        <file>resources/icons/10d@2x.png</file>
+        <file>resources/icons/11d@2x.png</file>
+        <file>resources/icons/13d@2x.png</file>
+        <file>resources/icons/50d@2x.png</file>
+        <file>resources/icons/01n@2x.png</file>
+        <file>resources/icons/02n@2x.png</file>
+        <file>resources/icons/03n@2x.png</file>
+        <file>resources/icons/04n@2x.png</file>
+        <file>resources/icons/09n@2x.png</file>
+        <file>resources/icons/10n@2x.png</file>
+        <file>resources/icons/11n@2x.png</file>
+        <file>resources/icons/13n@2x.png</file>
+        <file>resources/icons/50n@2x.png</file>
+    </qresource>
+</RCC>
